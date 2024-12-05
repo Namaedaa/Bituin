@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fleg
+  - Bleg
+  - Wall
+  - Amelia
+  - Robot
+  - RobotEnemy
+  - Obstacles
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Command Wheel Layer
+  - Ground
+  - Obstacles
+  - Enemy
+  - Player
+  - DistortionEffect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain Background
+    uniqueID: 3018444987
+    locked: 0
+  - name: Interactables
+    uniqueID: 1608805531
+    locked: 0
+  - name: Player
+    uniqueID: 2179062883
+    locked: 0
+  - name: EmttedLightFromNPCs
+    uniqueID: 1894961955
+    locked: 0
+  - name: Terrain
+    uniqueID: 861698419
+    locked: 0
+  - name: Terrrain Foreground
+    uniqueID: 2912153675
+    locked: 0
+  - name: NPCs
+    uniqueID: 2959232805
+    locked: 0
+  - name: LightSources
+    uniqueID: 1964185611
+    locked: 0
+  - name: DistortionEffectLayer
+    uniqueID: 2109569371
+    locked: 0
+  - name: Inventory Layer
+    uniqueID: 3106381471
+    locked: 0
+  - name: Pop Up Layer
+    uniqueID: 601358925
+    locked: 0
+  - name: Command Wheel
+    uniqueID: 1489711065
+    locked: 0
+  - name: UI
+    uniqueID: 3509234553
+    locked: 0

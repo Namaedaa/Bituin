@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: VentObject_Controller
+  m_Controller: {fileID: 9100000, guid: 3e5e6daacd318db46b59f2c2867c3fa5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 149885679e6e4e8448398f695fe78589, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e6cab29c38239b14ea81172f2036de5b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 91ed87e6d38889c418b3bef2fcec5434, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a1b4a89374894544991aebca73d06fc2, type: 2}

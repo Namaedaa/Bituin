@@ -1,0 +1,171 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Area 1/Level 1/Level2.tmx",
+    "expandedProjectPaths": [
+        "Test/TSXs"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Area 1/Level 1/Level1.tmx": {
+            "expandedGroupLayers": [
+                7,
+                5
+            ],
+            "expandedObjectLayers": [
+                10
+            ],
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 10139.333333333332,
+                "y": 224.66666666666669
+            }
+        },
+        "Area 1/Level 1/Level2.tmx": {
+            "expandedObjectLayers": [
+                10
+            ],
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 10761,
+                "y": 847
+            }
+        },
+        "Test/Maps/NewTestMapRules_Tileset..tmx": {
+            "scale": 0.399853515625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1.2504579313713293,
+                "y": 1.2504579313713293
+            }
+        },
+        "Test/Maps/NewTestMapRules_Tileset.tmx": {
+            "scale": 0.399853515625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -3.751373794113988,
+                "y": -3.751373794113988
+            }
+        },
+        "Test/Maps/NewTestMapRules_tileset.tmx": {
+            "expandedGroupLayers": [
+                15,
+                25
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 0,
+                "y": 0.25
+            }
+        },
+        "Test/Maps/TestMap.tmx": {
+            "expandedGroupLayers": [
+                14
+            ],
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1534.3333333333333,
+                "y": 766.3333333333333
+            }
+        },
+        "Test/Maps/TestMapRules_TileSet - Copy.tmx": {
+            "scale": 0.36459960937499997,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1.3713673496719139,
+                "y": 1.3713673496720276
+            }
+        },
+        "Test/Maps/TestMapRules_TileSet.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 0,
+                "y": -0.5
+            }
+        },
+        "Test/Maps/braindead.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 180.33333333333337,
+                "y": 259
+            }
+        },
+        "Test/TSXs/automap-tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Test/TSXs/automap_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Test/TSXs/bg.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "Test/TSXs/bg_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Test/TSXs/ruins32_tiles2.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "Test/TSXs/tilemap_rules_tiles.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "Test/Tsx/ruins32_tiles2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Test/automap-tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "D:/Projects/Unity/OPCC Game/Assets/Tiles and Maps/Test/Maps",
+    "last.externalTilesetPath": "D:/Projects/Unity/OPCC Game/Assets/Tiles and Maps/Test/TSXs",
+    "last.imagePath": "D:/Projects/Unity/OPCC Game/Assets/Tiles and Maps/Test/Tile Pngs",
+    "map.fixedSize": false,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Test/Maps/TestMapRules_TileSet.tmx",
+        "Test/TSXs/ruins32_tiles2.tsx",
+        "Test/TSXs/tilemap_rules_tiles.tsx",
+        "Test/Maps/NewTestMapRules_tileset.tmx",
+        "Test/TSXs/bg_tiles.tsx",
+        "Test/TSXs/bg.tsx",
+        "Area 1/Level 1/Level1.tmx",
+        "Area 1/Level 1/Level2.tmx"
+    ],
+    "project": "OPCCC.tiled-project",
+    "recentFiles": [
+        "Test/Maps/TestMapRules_TileSet.tmx",
+        "Test/TSXs/ruins32_tiles2.tsx",
+        "Test/TSXs/tilemap_rules_tiles.tsx",
+        "Test/Maps/NewTestMapRules_tileset.tmx",
+        "Test/TSXs/bg_tiles.tsx",
+        "Test/TSXs/bg.tsx",
+        "Area 1/Level 1/Level1.tmx",
+        "Area 1/Level 1/Level2.tmx",
+        "Test/Maps/TestMap.tmx",
+        "Test/Maps/braindead.tmx",
+        ":/automap-tiles.tsx",
+        "Test/TSXs/automap-tiles.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx"
+}

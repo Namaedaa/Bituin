@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed4f68e64ebe54b42bcb305c57811a70, type: 3}
+  m_Name: Level1_2
+  m_EditorClassIdentifier: 
+  speaker:
+  - Amelia
+  - Robot
+  - Amelia
+  - Amelia
+  - Robot
+  - Amelia
+  - Robot
+  - Amelia
+  - Robot
+  - Robot
+  - Robot
+  - Amelia
+  - Amelia
+  - Robot
+  - Amelia
+  sentence:
+  - Okay, with all the movement, I'm pretty sure I got no broken bones from that
+    crash.
+  - And I have no broken wires.
+  - Heh. Good one.
+  - Anyway, do you know where we are?
+  - Yes. We are currently in the Ruined City of Azoth.
+  - The Ruined City of Azoth... huh.
+  - Yup. What was once the most technologically advanced city, the Great City of
+    Azoth, was destroyed by the greed of men.
+  - Hm, I kind of remember this. Didn't the people of Azoth pissed off a Machine
+    God?
+  - Codenamed ATO-333, an Ancient Machine of Old, and no, the people of Azoth did
+    not just 'piss it off'.
+  - As I said, it was greed. They got more than they bargained for. They basically
+    destroyed this city themselves.
+  - And now ATO-333 has made these ruins his home, and his sentries roam and act
+    as his eyes for him.
+  - (For some reason, he did not exactly say what the people of Azoth did.)
+  - I see, thanks for the history lesson.
+  - By the way Amelia, I can detect the location of the trace of Thomas but we need
+    a map of this city so we can actually pinpoint it.
+  - Gotcha, let's go find one.
+  eventIndex: 0e000000

@@ -1,0 +1,15 @@
+{
+    "automappingRulesFile": "Test/Maps/rules.txt",
+    "commands": [
+    ],
+    "compatibilityVersion": 1100,
+    "extensionsPath": "Test/Tile Pngs",
+    "folders": [
+        ".",
+        "Test/TSXs"
+    ],
+    "properties": [
+    ],
+    "propertyTypes": [
+    ]
+}

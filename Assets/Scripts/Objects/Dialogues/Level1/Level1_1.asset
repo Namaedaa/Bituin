@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed4f68e64ebe54b42bcb305c57811a70, type: 3}
+  m_Name: Level1_1
+  m_EditorClassIdentifier: 
+  speaker:
+  - Amelia
+  - Amelia
+  - Robot
+  - Amelia
+  - Robot
+  - Amelia
+  - Robot
+  - Amelia
+  - Robot
+  - Amelia
+  - Amelia
+  - Amelia
+  - Amelia
+  - Robot
+  sentence:
+  - Damn, that crash busted my ship pretty badly.
+  - I wonder if there's any materials and parts here I can gather to repair my ship.
+  - .....
+  - Hmm- Hey you! You little robot!
+  - Hello. I am-
+  - Don't you hello me! You nearly got me killed!
+  - Forgive me, I forced a boot-up because I detected a trace of Thomas here.
+  - That doesn't- Wait, you said Thomas, as in Thomas Perry? My father?
+  - Yes. Hello again, Amelia Perry. I am P0-91, and I am to help you find your father.
+  - .....
+  - (I do not know what he is or what his motives are, but this is probably my best
+    lead yet to finding my father.)
+  - Okay P0-91, I'll hold you to your word. Let's go find my father.
+  - All right, let's go have a look around.
+  - Right behind you.
+  eventIndex: 0d000000
